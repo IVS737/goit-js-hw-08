@@ -35,5 +35,3 @@ player
         break;
     }
   });
-
-throttle(timeEvent, 1000);
